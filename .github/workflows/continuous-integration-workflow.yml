@@ -58,3 +58,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_TOKEN}}
           heroku_app_name: "saobry-devops8"
           heroku_email: "saoirse.bryar@softwire.com"
+          usedocker: true
